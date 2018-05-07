@@ -20,3 +20,7 @@ Client side output
 ```
 WR: 1.09GB/1.40GB 1.84MB/s, RX: 1.09GB/1.40GB 1.84MB/s, 10m12s, ETA 2m49s
 ```
+
+1  thread  1.1MB/s
+4  threads 1.9MB/s
+16 threads 2.2MB/s
